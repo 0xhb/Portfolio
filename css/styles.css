@@ -1,0 +1,24 @@
+body {
+    background: #000;
+    color: #918ca4;
+}
+
+h1 {
+    color: white;
+}
+
+.block-container {
+    display: grid;
+    grid-template: 400px;
+}
+
+
+.banner-container {
+    width: 40vw;
+    height: 90vh;
+}
+
+.banner {
+    width: 100%;
+    height: 100%;
+}
